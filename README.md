@@ -24,6 +24,7 @@ To analyze healthcare data by integrating patient, doctor, visit, treatment, and
 •	Types of treatment 
 •	Lab results
 •	Treatment success vs failure
+
 -Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Screenshot%202025-08-30%20202633.png">View Dashboard</a>
 
 ## Process

@@ -1,2 +1,3 @@
-# Healthcare-Analysis-Dashboard
-A comprehensive healthcare data analysis project using patient, doctor, visit, treatment, and lab result records. Includes data cleaning, modeling, exploratory analysis, and visualization to uncover insights on patient demographics, visits, treatment outcomes, and diagnostic trends.
+# Healthcare Analysis (interactive Dashboard creation using MS Excel)
+## Project objective
+To analyze healthcare data by integrating patient, doctor, visit, treatment, and lab result records, providing insights into demographics, medical history, treatment outcomes, and diagnostic trends for better healthcare decision-making.

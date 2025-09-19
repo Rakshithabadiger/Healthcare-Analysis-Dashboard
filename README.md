@@ -24,7 +24,9 @@ To analyze healthcare data by integrating patient, doctor, visit, treatment, and
 - Gender wise patient  
 - Types of treatment
 -Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Screenshot%202025-08-30%20202633.png">View Dashboard</a>
-
+-Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%201.png.png">view Dashboad</a>
+-Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%201.png.png">view Dashboad</a>
+-Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%201.png.png">view Dashboad</a>
 ## Process
 -Cleaned and prepared multi-table healthcare dataset (Patient, Doctor, Visit, Treatments, Lab Result).
 -Built data model with relationships across Patient–Doctor–Visit–Treatment.

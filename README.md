@@ -23,10 +23,11 @@ To analyze healthcare data by integrating patient, doctor, visit, treatment, and
 - High risk patients  
 - Gender wise patient  
 - Types of treatment
--Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Screenshot%202025-08-30%20202633.png">View Dashboard</a>
--Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%201.png.png">view Dashboad</a>
--Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%202.png.png">view Dashboad</a>
--Dashboard interaction <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Tableau%20dashboard%20snapshot.png.png">view Dashboad</a>
+
+- Dashboard interaction EXCEL <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Screenshot%202025-08-30%20202633.png">View Dashboard</a>
+- Dashboard interaction POWER BI<a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%201.png.png">view Dashboad</a>
+- Dashboard interaction POWER BI<a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Power%20BI%20dashboard%202.png.png">view Dashboad</a>
+- Dashboard interaction TABLEAU <a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/Tableau%20dashboard%20snapshot.png.png">view Dashboad</a>
 
 ## Process
 -Cleaned and prepared multi-table healthcare dataset (Patient, Doctor, Visit, Treatments, Lab Result).

@@ -41,6 +41,7 @@ To analyze healthcare data by integrating patient, doctor, visit, treatment, and
 <img width="1255" height="698" alt="Power BI dashboard 2 png" src="https://github.com/user-attachments/assets/b8e36138-8af8-4097-bc05-fc60834dec51" />
 <img width="1920" height="1080" alt="Tableau dashboard snapshot png" src="https://github.com/user-attachments/assets/0a9fc90b-30f0-47b2-9f73-a220136bc3d3" />
 
-
+## SQL Queries
+<a href="https://github.com/Rakshithabadiger/Healthcare-Analysis-Dashboard/blob/main/heathcare_project_queries.sql"> data set </a>
 ## Final Conclusion
 This project demonstrates how integrated healthcare data can be leveraged to uncover valuable insights into patient demographics, medical conditions, treatment outcomes, and diagnostic trends. The findings highlight opportunities for improving patient care, optimizing treatment costs, and supporting data-driven decision-making in the healthcare sector.
